@@ -8,3 +8,5 @@ Tutorial files for the GDG Bootcamp using Google Cloud technology: App-Engine PH
 If you're attending [Startup Weekend Byblos](http://byblos.startupweekend.org/) Or [Startup Weekend Beirut](http://beirut.startupweekend.org/)
 you can apply for your $2000 worth of Google Cloud credits [here](https://cloud.google.com/resources/starterpack/)
 You will receive the verification code at the event.
+
+Check out the presentation on [slideshare](http://www.slideshare.net/DonaldDerek/getting-started-with-google-cloud-technology)
