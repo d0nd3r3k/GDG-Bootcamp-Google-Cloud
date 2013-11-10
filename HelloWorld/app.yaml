@@ -1,0 +1,11 @@
+application: organic-lacing-392
+version: 1
+runtime: php
+api_version: 1
+
+handlers:
+- url: /css
+  static_dir: css
+
+- url: /.*
+  script: helloworld.php
